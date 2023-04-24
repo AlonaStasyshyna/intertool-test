@@ -1,2 +1,2 @@
-# intertool-test-
+# intertool-test
 Test task for Intertool company
